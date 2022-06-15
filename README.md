@@ -19,6 +19,12 @@ The contents of this repository are a result of the final project of the  <img s
 By combining the use of these libraries, we are going to access some newspaper files using python code which allows us to search through the images, looking for the occurrences of keywords and faces. 
 E.g. if you search for "Mark" it will return a contact sheet of all of the faces which were located on the newspaper page which mentions "Christopher".
 
+# Results
+## IPYNB Visualization
+To visualize the notebook and the source code, we rendered it on `https://nbviewer.jupyter.org/`.
+
+Access to the file here https://nbviewer.org/github/Juanesgil4/OCR_OpenCV_and_PyTesseract/blob/main/project.ipynb.
+
 ## Source Image File
 <img src="https://github.com/Juanesgil4/OCR_OpenCV_and_PyTesseract/blob/main/Resources/a-0.PNG.png?raw=true" alt="Test Results" style="width:800px;"/>
 
